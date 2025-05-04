@@ -364,3 +364,12 @@
   left: 1006px;
   object-fit: cover;
 }
+image.jpeg {
+  float: left;
+  height: 300px;
+  width: 300px;
+  font-family: Veranda;
+}
+.center {
+  float:center;
+}
