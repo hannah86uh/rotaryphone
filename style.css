@@ -373,3 +373,7 @@ image.jpeg {
 .center {
   float:center;
 }
+.homepage-desktop image.jpeg {
+  position: absolute;
+  object-fit: cover;
+}
